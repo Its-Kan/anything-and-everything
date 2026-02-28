@@ -1,0 +1,1 @@
+The time taken for the sound level to decay by 60 dB, or $RT_{60}$.

@@ -1,0 +1,6 @@
+---
+tags:
+  - "#dictionary/uni"
+---
+## Definition
+
